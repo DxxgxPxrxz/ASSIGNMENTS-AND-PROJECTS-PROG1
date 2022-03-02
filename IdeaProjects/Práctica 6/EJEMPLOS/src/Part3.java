@@ -1,1 +1,0 @@
-public class Part3 {}
